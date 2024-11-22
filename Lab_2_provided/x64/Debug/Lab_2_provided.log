@@ -1,0 +1,37 @@
+﻿  main.cpp
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(57,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(57,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(283,101): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(381,57): warning C4101: 'test': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(447,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(447,97): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(447,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(447,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(652,15): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(652,80): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(652,45): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(652,30): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(710,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(711,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(712,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(713,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(714,70): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(715,70): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(716,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(717,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(718,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(719,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(720,66): warning C4305: '+=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(721,66): warning C4305: '-=': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(745,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(750,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(757,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(762,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(768,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(774,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(779,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(784,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(789,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(794,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\cse 2k19\4-2\cse-4208\projects\Assignment2\main.cpp(871,77): warning C4101: 'scaleMatrix': unreferenced local variable
+  Lab_2_provided.vcxproj -> F:\cse 2k19\4-2\cse-4208\projects\Assignment2\x64\Debug\Lab_2_provided.exe
