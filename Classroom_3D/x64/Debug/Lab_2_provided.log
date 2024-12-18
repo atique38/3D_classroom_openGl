@@ -1,0 +1,21 @@
+﻿  glad.c
+  main.cpp
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(58,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(58,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(346,69): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(346,64): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(346,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(358,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(359,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(405,101): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(513,57): warning C4101: 'test': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(575,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(575,97): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(575,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(575,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(812,15): warning C4101: 'rotateXMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(812,80): warning C4101: 'modelCentered': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(812,45): warning C4101: 'rotateZMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(812,30): warning C4101: 'rotateYMatrix': unreferenced local variable
+F:\cse 2k19\4-2\cse-4208\projects\Assignment3\main.cpp(1215,77): warning C4101: 'scaleMatrix': unreferenced local variable
+  Lab_2_provided.vcxproj -> F:\cse 2k19\4-2\cse-4208\projects\Assignment3\x64\Debug\Classroom_3D.exe

@@ -1,10 +1,3 @@
-//
-//  shader.h
-//  3D Object Drawing
-//
-//  Created by Nazirul Hasan on 4/9/23.
-//
-
 #ifndef SHADER_H
 #define SHADER_H
 

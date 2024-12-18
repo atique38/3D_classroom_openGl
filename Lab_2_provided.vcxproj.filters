@@ -29,7 +29,10 @@
     <ClInclude Include="shader.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\USER\Downloads\camera.h">
+    <ClInclude Include="pointLight.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -43,5 +46,7 @@
     <None Include="vertexShader.vs">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="fragmentShaderForGouraudShading.fs" />
+    <None Include="vertexShaderForGouraudShading.vs" />
   </ItemGroup>
 </Project>
